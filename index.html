@@ -1,23 +1,39 @@
 ---
-layout: default
+layout: bootstrap
+title: Welcome
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Computational Materials Science @ Clemson</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <p class="lead">
+    Dr. Ulf Schiller is a new faculty member of the Department of
+    Materials Science and Engineering at Clemson University. He
+    studied Computer Science and Physics at the University of
+    Bielefeld, Germany, and obtained his PhD from the Johannes
+    Gutenberg University Mainz and the Max Planck Institute for
+    Polymer Research working on lattice Boltzmann simulations of
+    complex fluids and soft matter. Following his PhD, Schiller was
+    awarded a Fellowship in Computational Sciences from Volkswagen
+    Stiftung. After postdoctoral stays at the University of Florida
+    and Forschungszentrum Jülich, Germany, he joined the Centre for
+    Computational Science at University College London, UK, where he
+    maintains a visiting affiliation. Dr. Schiller's research
+    interests cover a range of topics in computational soft matter and
+    bio-inspired materials. He is particularly interested in
+    elucidating, by means of computer simulations, how complex
+    multiscale phenomena give rise to macroscopic materials
+    properties. Dr. Schiller has extensive experience in developing
+    novel scale-bridging algorithms and state-of-the-art simulation
+    techniques. He contributed the first parallel lattice Boltzmann
+    implementation to the ESPResSo software package and is a regular
+    lecturer at the CECAM sponsored ESPResSo summer schools. At
+    Clemson, Dr. Schiller intends to leverage the high performance
+    computing capabilities of the Palmetto cluster and engage his
+    students in the vibrant field of computational materials science.
+  </p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="lead">More details on the Schiller Research Group are coming soon. Please check back.</p>
 
 </div>

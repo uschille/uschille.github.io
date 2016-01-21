@@ -1,2 +1,3 @@
 # uschille.github.io
-Computational Materials Science @ Clemson
+Schiller Research Group
+Computational Materials Science @ Clemson University
