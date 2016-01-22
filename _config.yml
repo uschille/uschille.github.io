@@ -17,12 +17,6 @@ url: "http://www.ulfschiller.de" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
-navigation:
-- text: Home
-  url: /index.html
-- text: News
-  url: /news.html
-
 # Build settings
 markdown: kramdown
 

@@ -1,5 +1,5 @@
 # uschille.github.io
 
-Schiller Research Group
+Ulf Schiller's Research Group
 
 Computational Materials Science @ Clemson University
