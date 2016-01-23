@@ -4,7 +4,6 @@ title: Schiller Research Group
 headline: Welcome to Ulf Schiller's Research Group
 tagline: Computational Materials Science, Soft Matter, Nanofluids
 ---
-{% include JB/setup %}
 
 Dr. Ulf Schiller is a new faculty member of the Department of
 Materials Science and Engineering at Clemson University. He studied
