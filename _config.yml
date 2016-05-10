@@ -33,7 +33,7 @@ exclude:
 - .rbenv-version
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 sass:
 #  sass_dir: css
