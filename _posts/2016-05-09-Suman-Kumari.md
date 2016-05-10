@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2016 Summer Intern"
+title: "2016 Summer Intern joins the group"
 description: ""
 category: 
 tags: []
